@@ -1,0 +1,23 @@
+{
+  "name": "specbee",
+  "version": "1.0.0",
+  "description": "specbee theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "specbee"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "gulp": "3.9.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "author": "specbee",
+  "license": "ISC"
+}

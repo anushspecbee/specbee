@@ -1,0 +1,44 @@
+/**
+ * Site menu styling.
+ */
+
+.site-navigation{
+    .menu{
+        padding: 6px;
+        margin-bottom: 0;
+        float: right;
+        .menu-item{
+            text-decoration: none;
+            display: inline-flex;
+            margin-right: 27px;
+            font-size: 16px;
+
+            &:nth-child(6) {
+                background: #F44E00;
+                padding:5px 10px 5px 10px;
+                font-size: 18px;
+                
+              }
+            a:last-child
+            {
+                color: white;
+
+            }
+
+        a{
+            color: white;
+            line-height: 2rem;
+            background-image: linear-gradient(white, white);
+            background-size: 0 1px, auto;
+            background-repeat: no-repeat;
+            background-position: center bottom;
+            transition: all .2s ease-out;
+            &:hover{
+                text-decoration: none;
+                background-size: 100% 2px, auto;
+               
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,32 @@
+/**
+ * @file
+ * Main content area theming.
+ */
+
+
+.content{
+    margin-top: 40px;
+    padding: 50px;
+}
+
+.demo_btn{
+    background: #F44E00;
+    padding:5px 10px 5px 10px;
+    font-size: 18px;
+    padding: 10px;
+    a{
+        color: white;
+        padding: 15px;
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}
+.btn-getintouch{
+    width: 200px;
+    margin:10px 0px 0px 28px;
+}
+
+.btn-Requestquote{
+    width: 200px;
+}

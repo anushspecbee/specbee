@@ -1,0 +1,29 @@
+/**
+ * @file
+ * Theme variables.
+ */
+
+// Font settings.
+
+$font-family--khand: "Khand", sans-serif;
+$font-family--myriadpro: "MyriadPro", sans-serif;
+$font-family--notosans: "NotoSansJP", sans-serif;
+$font-family-base: $font-family--myriadpro;
+
+$font-weight--thin: 100;
+$font-weight--light: 300;
+$font-weight--regular: 400;
+$font-weight--medium: 500;
+$font-weight--semibold: 600;
+$font-weight--bold: 700;
+$font-weight--black: 900;
+
+$font-size--base: 14px;
+$font-size--title: 28px;
+$font-size--subtitle: 20px;
+$font-size--base-sm: $font-size--base;
+$font-size--title-sm: $font-size--title;
+$font-size--subtitle-sm: $font-size--subtitle;
+
+// Transition base time.
+$transition-base-time: .2s;

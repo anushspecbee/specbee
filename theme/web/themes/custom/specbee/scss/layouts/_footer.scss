@@ -1,0 +1,68 @@
+/**
+ * Site footer styling.
+ */
+
+.primaryfooter {
+    background-color: #1F2627;
+    height: auto;
+    padding: 30px;
+    padding-top: 70px;
+    .footermap-header {
+        .footermap-item {
+            line-height: 2rem;
+            a {
+                font-size: 16px;
+                color: #78828E;
+                &:hover {
+                    color: white;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+.footer {
+    background-color: #151919;
+}
+
+.intouch {
+    width: 100%;
+    padding: 30px;
+    background-image: url('https://www.specbee.com/images/textmonial-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .blackbox {
+        margin-top: -70px;
+        background-color: #29585a;
+        padding: 30px;
+        height: 250px;
+        width: 100%;
+        color: white;
+        margin-bottom: 20px;
+        h3 {
+            padding: 28px 35px 0px 35px;
+            font-size: 38px;
+            font-weight: bolder;
+        }
+    }
+}
+
+.getintouchsectionslider {
+    span .field-content {
+        color: white;
+        font-size: 30px;
+        font-weight: bolder;
+        max-height: 100px;
+    }
+}
+
+.fa{
+background-color: red;
+width: 250px;
+height: 100px;
+}

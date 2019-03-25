@@ -1,0 +1,37 @@
+.herosection{
+    background-image: url('https://www.specbee.com/images/home/banner-001.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.hero-content{
+    color: white;
+    padding: 130px;
+    h1{
+        font-size: 70px;
+        font-weight: bold;
+    }
+    h4{
+        line-height: 5rem;
+        font-size: 30px;
+        font-weight: thin;
+    }
+}
+
+.social{
+    background-color: #F8F9FA;
+    margin-bottom: 90px;
+    padding: 20px;
+    .row{
+        margin-left: 0px;
+        margin-right: 0px;
+}
+}
+
+.socialmedia .soc{
+    padding-right: 0px;
+}
+
+
+

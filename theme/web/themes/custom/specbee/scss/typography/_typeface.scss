@@ -1,0 +1,200 @@
+/**
+ * Font typeface declarations.
+ */
+
+// Khand font face declaration.
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/Khand/Khand-Light.eot');
+  src: url('../assets/fonts/Khand/Khand-Light.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Khand/Khand-Light.woff2') format('woff2'),
+  url('../assets/fonts/Khand/Khand-Light.woff') format('woff'),
+  url('../assets/fonts/Khand/Khand-Light.ttf') format('truetype'),
+  url('../assets/fonts/Khand/Khand-Light.svg#Khand-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/Khand/Khand-Regular.eot');
+  src: url('../assets/fonts/Khand/Khand-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Khand/Khand-Regular.woff2') format('woff2'),
+  url('../assets/fonts/Khand/Khand-Regular.woff') format('woff'),
+  url('../assets/fonts/Khand/Khand-Regular.ttf') format('truetype'),
+  url('../assets/fonts/Khand/Khand-Regular.svg#Khand-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/Khand/Khand-Medium.eot');
+  src: url('../assets/fonts/Khand/Khand-Medium.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Khand/Khand-Medium.woff2') format('woff2'),
+  url('../assets/fonts/Khand/Khand-Medium.woff') format('woff'),
+  url('../assets/fonts/Khand/Khand-Medium.ttf') format('truetype'),
+  url('../assets/fonts/Khand/Khand-Medium.svg#Khand-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/Khand/Khand-SemiBold.eot');
+  src: url('../assets/fonts/Khand/Khand-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Khand/Khand-SemiBold.woff2') format('woff2'),
+  url('../assets/fonts/Khand/Khand-SemiBold.woff') format('woff'),
+  url('../assets/fonts/Khand/Khand-SemiBold.ttf') format('truetype'),
+  url('../assets/fonts/Khand/Khand-SemiBold.svg#Khand-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/Khand/Khand-Bold.eot');
+  src: url('../assets/fonts/Khand/Khand-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/Khand/Khand-Bold.woff2') format('woff2'),
+  url('../assets/fonts/Khand/Khand-Bold.woff') format('woff'),
+  url('../assets/fonts/Khand/Khand-Bold.ttf') format('truetype'),
+  url('../assets/fonts/Khand/Khand-Bold.svg#Khand-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+// MyriadPro font declaration.
+@font-face {
+  font-family: 'Khand';
+  src: url('../assets/fonts/MyriadPro/MyriadProLight.eot');
+  src: url('../assets/fonts/MyriadPro/MyriadProLight.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MyriadPro/MyriadProLight.woff2') format('woff2'),
+  url('../assets/fonts/MyriadPro/MyriadProLight.woff') format('woff'),
+  url('../assets/fonts/MyriadPro/MyriadProLight.ttf') format('truetype'),
+  url('../assets/fonts/MyriadPro/MyriadProLight.svg#MyriadProLight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+// MyriadPro font declaration.
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Regular.eot');
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Regular.woff2') format('woff2'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Regular.woff') format('woff'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Regular.ttf') format('truetype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+// MyriadPro font declaration.
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Semibold.eot');
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Semibold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Semibold.woff2') format('woff2'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Semibold.woff') format('woff'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Semibold.ttf') format('truetype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Semibold.svg#MyriadPro-Semibold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Bold.eot');
+  src: url('../assets/fonts/MyriadPro/MyriadPro-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Bold.woff2') format('woff2'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Bold.woff') format('woff'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Bold.ttf') format('truetype'),
+  url('../assets/fonts/MyriadPro/MyriadPro-Bold.svg#MyriadPro-Bold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../assets/fonts/MyriadPro/MyriadProBlack.eot');
+  src: url('../assets/fonts/MyriadPro/MyriadProBlack.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/MyriadPro/MyriadProBlack.woff2') format('woff2'),
+  url('../assets/fonts/MyriadPro/MyriadProBlack.woff') format('woff'),
+  url('../assets/fonts/MyriadPro/MyriadProBlack.ttf') format('truetype'),
+  url('../assets/fonts/MyriadPro/MyriadProBlack.svg#MyriadProBlack') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+// NotoSansJP font declaration.
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Thin.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Thin.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Thin.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Thin.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Thin.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Thin.svg#NotoSansJP-Thin') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Light.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Light.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Light.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Light.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Light.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Light.svg#NotoSansJP-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Regular.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Regular.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Regular.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Regular.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Regular.svg#NotoSansJP-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Medium.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Medium.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Medium.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Medium.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Medium.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Medium.svg#NotoSansJP-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Bold.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Bold.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Bold.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Bold.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Bold.svg#NotoSansJP-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansJP';
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Black.eot');
+  src: url('../assets/fonts/NotoSans/NotoSansJP-Black.eot?#iefix') format('embedded-opentype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Black.woff2') format('woff2'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Black.woff') format('woff'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Black.ttf') format('truetype'),
+  url('../assets/fonts/NotoSans/NotoSansJP-Black.svg#NotoSansJP-Black') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}

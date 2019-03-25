@@ -1,0 +1,23 @@
+name: specbee
+type: theme
+description: 'New specbee theme'
+package: Other
+core: 8.x
+libraries:
+  - specbee/global-styling
+ 
+base theme: classy
+#Using Classy as a base theme https://www.drupal.org/theme-guide/8/classy
+
+regions:
+  content: Content
+  branding: Branding
+  navigation: Navigation
+  hero: Hero
+  mobile_navigation: Mobile navigation
+  socialmedia: Social Media
+  getintouchsection: Get In Touch
+  getintouchsectionslider: Get In Touch Slider
+  primary_footer: Primary Footer
+  primary_footer1: Primary Footer1
+  footer: Footer

@@ -1,0 +1,42 @@
+/**
+ * @file
+ * Theme typography.
+ */
+@import "typeface";
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family--khand;
+  font-weight: $font-weight--medium;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+}
+
+h1, .page-title, .title {
+  font-size: $font-size--title-sm;
+}
+
+h2, .subtitle {
+  font-size: $font-size--subtitle-sm;
+}
+
+body {
+  font-family: $font-family-base;
+  font-size: $font-size--base-sm;
+  font-weight: $font-weight--regular;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+@include media-breakpoint-up(md) {
+  h1, .page-title, .title {
+    font-size: $font-size--title;
+  }
+  h2, .subtitle {
+    font-size: $font-size--subtitle;
+  }
+  body {
+    font-size: $font-size--base;
+  }
+}
